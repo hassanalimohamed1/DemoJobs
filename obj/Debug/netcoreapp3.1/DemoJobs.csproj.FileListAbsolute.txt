@@ -1,0 +1,12 @@
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/DemoJobs/obj/Debug/netcoreapp3.1/DemoJobs.csprojAssemblyReference.cache
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/DemoJobs/obj/Debug/netcoreapp3.1/DemoJobs.AssemblyInfoInputs.cache
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/DemoJobs/obj/Debug/netcoreapp3.1/DemoJobs.AssemblyInfo.cs
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/DemoJobs/obj/Debug/netcoreapp3.1/DemoJobs.csproj.CoreCompileInputs.cache
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/DemoJobs/bin/Debug/netcoreapp3.1/DemoJobs.deps.json
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/DemoJobs/bin/Debug/netcoreapp3.1/DemoJobs.runtimeconfig.json
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/DemoJobs/bin/Debug/netcoreapp3.1/DemoJobs.runtimeconfig.dev.json
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/DemoJobs/bin/Debug/netcoreapp3.1/DemoJobs.dll
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/DemoJobs/bin/Debug/netcoreapp3.1/DemoJobs.pdb
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/DemoJobs/obj/Debug/netcoreapp3.1/DemoJobs.dll
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/DemoJobs/obj/Debug/netcoreapp3.1/DemoJobs.pdb
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/DemoJobs/obj/Debug/netcoreapp3.1/DemoJobs.genruntimeconfig.cache
